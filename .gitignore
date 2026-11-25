@@ -1,0 +1,8 @@
+# Vercel CLI link folder
+.vercel
+
+# Common junk
+node_modules
+.DS_Store
+.env
+.env.*
